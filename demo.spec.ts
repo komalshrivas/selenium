@@ -2,7 +2,7 @@
 // for(let i=0; i<number.length; i++){
 //     console.log(number[i])
 // }
-  
+//Hello
   
 // //====================================
 //  let number: number[]= [1,2,3,4,5,6,7,8,9]
